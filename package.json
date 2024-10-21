@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Seralca/idbusca.git", 
+  "homepage": "https://github.com/Seralca/idbusca.git",
   "name": "idbusca",
   "private": true,
   "version": "0.0.0",
@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "axios": "^1.7.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
